@@ -7,7 +7,8 @@
     {
       "binding": "DB",
       "database_id": "c90ca7ec-dbe5-4482-a9d0-078e15fb87cc",
-      "database_name": "round-river-9bbf-d1"
+      "database_name": "round-river-9bbf-d1",
+      "migrations_dir": "migrations"
     }
   ],
   "observability": {
